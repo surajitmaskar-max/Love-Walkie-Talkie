@@ -1,0 +1,6 @@
+{
+  "name": "Love Walkie Talkie",
+  "description": "Private two-person online voice walkie-talkie for couples with live push-to-talk, hands-free mode, and WebRTC encrypted audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

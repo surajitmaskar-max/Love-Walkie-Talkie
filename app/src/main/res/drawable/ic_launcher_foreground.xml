@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Antenna -->
+    <path
+        android:fillColor="#FF80AB"
+        android:pathData="M38,20 L42,20 L41,36 L39,36 Z" />
+    <path
+        android:fillColor="#FF4081"
+        android:pathData="M40,20m-3,0a3,3 0,1,1 6,0a3,3 0,1,1 -6,0" />
+
+    <!-- Radio Waves near antenna -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF80AB"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M47,20 C50,22 50,26 47,28" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF4081"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M52,17 C57,21 57,27 52,31" />
+
+    <!-- Dial Knob -->
+    <path
+        android:fillColor="#F48FB1"
+        android:pathData="M64,31 L72,31 A2,2 0 0,1 74,33 L74,36 L62,36 L62,33 A2,2 0 0,1 64,31 Z" />
+
+    <!-- Walkie-talkie main body -->
+    <path
+        android:fillColor="#2D1120"
+        android:pathData="M37,36 L71,36 A7,7 0 0,1 78,43 L78,81 A9,9 0 0,1 69,90 L39,90 A9,9 0 0,1 30,81 L30,43 A7,7 0 0,1 37,36 Z" />
+
+    <!-- Walkie-talkie inner bezel -->
+    <path
+        android:fillColor="#441830"
+        android:pathData="M34,42 L74,42 A3,3 0 0,1 77,45 L77,80 A6,6 0 0,1 71,86 L37,86 A6,6 0 0,1 31,80 L31,45 A3,3 0 0,1 34,42 Z" />
+
+    <!-- PTT side button bump -->
+    <path
+        android:fillColor="#FF4081"
+        android:pathData="M27,51 L30,51 L30,67 L27,67 A2,2 0 0,1 25,65 L25,53 A2,2 0 0,1 27,51 Z" />
+
+    <!-- Screen / status strip -->
+    <path
+        android:fillColor="#1F0B16"
+        android:pathData="M36,46 L72,46 A3,3 0 0,1 75,49 L75,56 A3,3 0 0,1 72,59 L36,59 A3,3 0 0,1 33,46 A3,3 0 0,1 36,46 Z" />
+    <path
+        android:fillColor="#69F0AE"
+        android:pathData="M38,52m-2,0a2,2 0,1,1 4,0a2,2 0,1,1 -4,0" />
+    <path
+        android:fillColor="#FF80AB"
+        android:pathData="M44,51 L68,51 L68,53 L44,53 Z" />
+
+    <!-- Heart on Speaker Grill (Centerpiece) -->
+    <path
+        android:fillColor="#FF4081"
+        android:pathData="M54,64 C52,61 46,60 44,65 C41.5,70 47,76 54,80 C61,76 66.5,70 64,65 C62,60 56,61 54,64 Z" />
+
+    <!-- Small Speaker Dots -->
+    <path
+        android:fillColor="#FF80AB"
+        android:pathData="M42,83m-1,0a1,1 0,1,1 2,0a1,1 0,1,1 -2,0" />
+    <path
+        android:fillColor="#FF80AB"
+        android:pathData="M54,83m-1,0a1,1 0,1,1 2,0a1,1 0,1,1 -2,0" />
+    <path
+        android:fillColor="#FF80AB"
+        android:pathData="M66,83m-1,0a1,1 0,1,1 2,0a1,1 0,1,1 -2,0" />
+</vector>
